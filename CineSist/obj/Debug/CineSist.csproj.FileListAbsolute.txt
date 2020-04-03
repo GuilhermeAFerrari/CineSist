@@ -1,0 +1,443 @@
+D:\4º Semestre\Interdisciplinar\novo\CineSist\CineSist\bin\Debug\CineSist.exe.config
+D:\4º Semestre\Interdisciplinar\CineSist\CineSist\bin\Debug\CineSist.exe.config
+E:\4º Semestre\Interdisciplinar\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\IFSP\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\IFSP\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\IFSP\Desktop\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\IFSP\Desktop\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+D:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.exe.config
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.exe
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.pdb
+D:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.mdf
+D:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist_log.ldf
+D:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.exe
+D:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.pdb
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+D:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+E:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.exe.config
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.exe
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.pdb
+E:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\Model\BD_Cinesist.mdf
+E:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\Model\BD_Cinesist_log.ldf
+E:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.exe
+E:\4 º Semestre\inter\CineSist\CineSist\bin\Debug\CineSist.pdb
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+E:\4 º Semestre\inter\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\ifsp\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmConsultarFilme.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\ifsp\Desktop\11-10 - 22_05\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\ifsp\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+D:\CineSist\CineSist\bin\Debug\CineSist.exe.config
+D:\CineSist\CineSist\obj\Debug\CineSist.exe
+D:\CineSist\CineSist\obj\Debug\CineSist.pdb
+D:\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmConsultarFilme.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+D:\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+D:\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+D:\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+D:\CineSist\CineSist\bin\Debug\CineSist.exe
+D:\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Guilherme\Downloads\13-11 - 21_42\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\Terminal\Desktop\25-11 - 16_28\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe.config
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.pdb
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirFilme.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmInserirSessao.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmLogin.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmMenu.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplash.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.Properties.Resources.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\CineSist.csproj.GenerateResource.Cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist.mdf
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\bin\Debug\DataBase\BD_Cinesist_log.ldf
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\bin\Debug\CineSist.exe
+C:\Users\ifsp\Downloads\CineSist\CineSist\CineSist\CineSist\bin\Debug\CineSist.pdb
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\ifsp\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\ifsp\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplashVender.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplashVender.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilme.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\guilherme.BLUEWASH\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplashVender.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplashVender.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme\Downloads\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilmes.resources
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Terminal\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilmes.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFilmes.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmSplashVender.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioFuncionario.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioSessoes.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngresso.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmPrimeiroAcesso.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVenderIngressoSala2.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmVendaIngresso.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmGerenciarFuncionario.resources
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.cache
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme\Desktop\CineSist\CineSist\obj\Debug\CineSist.CS_frmRelatorioIngressos.resources
